@@ -4,8 +4,6 @@
 
     ;}
 
-
-
     
 .cabeçalho {
     background-color: #3b39af;
@@ -44,4 +42,39 @@
 }
 .escola-titulo{
     padding: 24px 0;
+   
+
+
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    
+}
+.estudante-imagem{
+    width: 25%;
+}
+.estudante-icone{
+    width: 10%;
+}
+.estudante-div{
+    text-align: center;
+    padding: 50px 0;
+}
+
+
+.estudantes-todos{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+
+.rodape{
+    background-color: rgb(150, 150, 207);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 12px 0 ;
 }
